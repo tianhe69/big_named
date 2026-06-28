@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  padding: 40px 20px;
+  color: white;
+}
+
+.app-header h1 {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.app-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-section {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.results-section {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.name-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+}
+
+.name-card {
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 2px solid #f0f0f0;
+}
+
+.name-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+}
+
+.name-main {
+  padding: 8px 0;
+}
+
+.name-text {
+  color: #667eea;
+  margin: 0;
+  font-size: 1.8em;
+  text-align: center;
+}
+
+.name-details {
+  text-align: center;
+  margin-top: 8px;
+}
+
+.name-info {
+  padding: 8px 0;
+}
+
+.auspicious-ref {
+  padding: 8px 0;
+}
+
+.phrase-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .app {
+    padding: 10px;
+  }
+
+  .app-header {
+    padding: 20px 10px;
+  }
+
+  .app-header h1 {
+    font-size: 2em;
+  }
+
+  .name-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Ant Design 自定义样式 */
+.ant-card {
+  border-radius: 12px;
+}
+
+.ant-btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+}
+
+.ant-btn-primary:hover {
+  background: linear-gradient(135deg, #5568d3 0%, #6a3f8f 100%);
+}
+
+.ant-tag {
+  margin: 2px;
+}

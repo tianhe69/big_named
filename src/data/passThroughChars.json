@@ -1,0 +1,252 @@
+[
+  {
+    "char": "可",
+    "pinyin": "ke",
+    "tone": 3,
+    "wuxing": "中性",
+    "type": "passThrough",
+    "simplified_strokes": 5,
+    "traditional_strokes": 5,
+    "auspicious_phrases": ["可爱可亲", "可圈可点"]
+  },
+  {
+    "char": "若",
+    "pinyin": "ruo",
+    "tone": 4,
+    "wuxing": "中性",
+    "type": "passThrough",
+    "simplified_strokes": 8,
+    "traditional_strokes": 11,
+    "auspicious_phrases": ["虚怀若谷", "安之若素"]
+  },
+  {
+    "char": "尚",
+    "pinyin": "shang",
+    "tone": 4,
+    "wuxing": "金",
+    "type": "passThrough",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": ["尚德载物", "高尚品德"]
+  },
+  {
+    "char": "伯",
+    "pinyin": "bo",
+    "tone": 2,
+    "wuxing": "水",
+    "type": "passThrough",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": ["伯乐相马", "伯仲之间"]
+  },
+  {
+    "char": "仲",
+    "pinyin": "zhong",
+    "tone": 4,
+    "wuxing": "火",
+    "type": "passThrough",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": ["伯仲叔季", "才高八斗"]
+  },
+  {
+    "char": "毓",
+    "pinyin": "yu",
+    "tone": 4,
+    "wuxing": "土",
+    "type": "passThrough",
+    "simplified_strokes": 14,
+    "traditional_strokes": 14,
+    "auspicious_phrases": ["钟灵毓秀", "毓秀钟灵"]
+  },
+  {
+    "char": "子",
+    "pinyin": "zi",
+    "tone": 3,
+    "wuxing": "水",
+    "type": "passThrough",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": ["天之骄子", "子孙满堂"]
+  },
+  {
+    "char": "用",
+    "pinyin": "yong",
+    "tone": 4,
+    "wuxing": "土",
+    "type": "passThrough",
+    "simplified_strokes": 5,
+    "traditional_strokes": 5,
+    "auspicious_phrases": ["学以致用", "大材小用"]
+  },
+  {
+    "char": "亦",
+    "pinyin": "yi",
+    "tone": 4,
+    "wuxing": "土",
+    "type": "passThrough",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": ["不亦乐乎", "亦步亦趋"]
+  },
+  {
+    "char": "奕",
+    "pinyin": "yi",
+    "tone": 4,
+    "wuxing": "木",
+    "type": "passThrough",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": ["神采奕奕", "奕奕生辉"]
+  },
+  {
+    "char": "吉",
+    "pinyin": "ji",
+    "tone": 2,
+    "wuxing": "木",
+    "type": "passThrough",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": ["吉祥如意", "大吉大利"]
+  },
+  {
+    "char": "然",
+    "pinyin": "ran",
+    "tone": 2,
+    "wuxing": "金",
+    "type": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": ["安然无恙", "理所当然"]
+  },
+  {
+    "char": "也",
+    "pinyin": "ye",
+    "tone": 3,
+    "wuxing": "土",
+    "type": "ending",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": ["之乎者也", "成也萧何"]
+  },
+  {
+    "char": "之",
+    "pinyin": "zhi",
+    "tone": 1,
+    "wuxing": "火",
+    "type": "ending",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": ["持之以恒", "君子之交"]
+  },
+  {
+    "char": "祥",
+    "pinyin": "xiang",
+    "tone": 2,
+    "wuxing": "金",
+    "type": "ending",
+    "simplified_strokes": 10,
+    "traditional_strokes": 11,
+    "auspicious_phrases": ["吉祥如意", "祥和美满"]
+  },
+  {
+    "char": "祯",
+    "pinyin": "zhen",
+    "tone": 1,
+    "wuxing": "火",
+    "type": "ending",
+    "simplified_strokes": 10,
+    "traditional_strokes": 14,
+    "auspicious_phrases": ["祯祥吉庆", "祥瑞降临"]
+  },
+  {
+    "char": "元",
+    "pinyin": "yuan",
+    "tone": 2,
+    "wuxing": "土",
+    "type": "auspicious",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": ["元气满满", "一元复始"]
+  },
+  {
+    "char": "亨",
+    "pinyin": "heng",
+    "tone": 1,
+    "wuxing": "水",
+    "type": "auspicious",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": ["万事亨通", "亨利通达"]
+  },
+  {
+    "char": "利",
+    "pinyin": "li",
+    "tone": 4,
+    "wuxing": "金",
+    "type": "auspicious",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": ["大吉大利", "名利双收"]
+  },
+  {
+    "char": "贞",
+    "pinyin": "zhen",
+    "tone": 1,
+    "wuxing": "火",
+    "type": "auspicious",
+    "simplified_strokes": 6,
+    "traditional_strokes": 9,
+    "auspicious_phrases": ["坚贞不屈", "忠贞不渝"]
+  },
+  {
+    "char": "富",
+    "pinyin": "fu",
+    "tone": 4,
+    "wuxing": "水",
+    "type": "auspicious",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": ["富贵荣华", "富甲一方"]
+  },
+  {
+    "char": "贵",
+    "pinyin": "gui",
+    "tone": 4,
+    "wuxing": "木",
+    "type": "auspicious",
+    "simplified_strokes": 9,
+    "traditional_strokes": 12,
+    "auspicious_phrases": ["富贵吉祥", "贵人相助"]
+  },
+  {
+    "char": "寿",
+    "pinyin": "shou",
+    "tone": 4,
+    "wuxing": "金",
+    "type": "auspicious",
+    "simplified_strokes": 7,
+    "traditional_strokes": 14,
+    "auspicious_phrases": ["福寿安康", "寿比南山"]
+  },
+  {
+    "char": "考",
+    "pinyin": "kao",
+    "tone": 3,
+    "wuxing": "老",
+    "type": "auspicious",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": ["孝悌忠信", "考妣恩深"]
+  },
+  {
+    "char": "孝",
+    "pinyin": "xiao",
+    "tone": 4,
+    "wuxing": "水",
+    "type": "auspicious",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": ["孝感动天", "孝顺父母"]
+  }
+]

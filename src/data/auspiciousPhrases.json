@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "phrase": "志存高远",
+    "type": "idiom",
+    "source": "诸葛亮《诫外甥书》",
+    "meaning": "志向远大，胸怀宽广",
+    "homophone_mappings": [
+      {"name": "志远", "mapping": {"志": "志", "高": "远"}},
+      {"name": "智浩", "mapping": {"志": "智", "高": "浩"}},
+      {"name": "之浩", "mapping": {"志": "之", "高": "浩"}}
+    ]
+  },
+  {
+    "id": 2,
+    "phrase": "温文尔雅",
+    "type": "idiom",
+    "source": "《论语》",
+    "meaning": "态度温和，举止文雅",
+    "homophone_mappings": [
+      {"name": "文雅", "mapping": {"文": "文", "雅": "雅"}},
+      {"name": "温雅", "mapping": {"温": "温", "雅": "雅"}}
+    ]
+  },
+  {
+    "id": 3,
+    "phrase": "博学多才",
+    "type": "idiom",
+    "source": "《晋书》",
+    "meaning": "学识广博，才能出众",
+    "homophone_mappings": [
+      {"name": "文博", "mapping": {"博": "博", "学": "文"}},
+      {"name": "才博", "mapping": {"博": "博", "才": "才"}}
+    ]
+  },
+  {
+    "id": 4,
+    "phrase": "厚德载物",
+    "type": "idiom",
+    "source": "《周易》",
+    "meaning": "品德高尚，能承担重任",
+    "homophone_mappings": [
+      {"name": "德厚", "mapping": {"厚": "厚", "德": "德"}},
+      {"name": "载德", "mapping": {"德": "德", "载": "载"}}
+    ]
+  },
+  {
+    "id": 5,
+    "phrase": "自强不息",
+    "type": "idiom",
+    "source": "《周易》",
+    "meaning": "自我奋发，永不停息",
+    "homophone_mappings": [
+      {"name": "自强", "mapping": {"自": "自", "强": "强"}},
+      {"name": "不息", "mapping": {"不": "不", "息": "息"}}
+    ]
+  },
+  {
+    "id": 6,
+    "phrase": "长风破浪会有时，直挂云帆济沧海",
+    "type": "poetry",
+    "source": "李白《行路难》",
+    "meaning": "勇往直前，不畏艰难险阻",
+    "homophone_mappings": [
+      {"name": "云帆", "mapping": {"云": "云", "帆": "帆"}},
+      {"name": "长海", "mapping": {"长": "长", "海": "海"}},
+      {"name": "风帆", "mapping": {"风": "风", "帆": "帆"}}
+    ]
+  },
+  {
+    "id": 7,
+    "phrase": "会当凌绝顶，一览众山小",
+    "type": "poetry",
+    "source": "杜甫《望岳》",
+    "meaning": "登高望远，胸怀壮志",
+    "homophone_mappings": [
+      {"name": "凌峰", "mapping": {"凌": "凌", "顶": "峰"}},
+      {"name": "山顶", "mapping": {"山": "山", "顶": "顶"}}
+    ]
+  },
+  {
+    "id": 8,
+    "phrase": "欲穷千里目，更上一层楼",
+    "type": "poetry",
+    "source": "王之涣《登鹳雀楼》",
+    "meaning": "不断进取，追求更高境界",
+    "homophone_mappings": [
+      {"name": "千里", "mapping": {"千": "千", "里": "里"}},
+      {"name": "层楼", "mapping": {"更": "更", "楼": "楼"}}
+    ]
+  },
+  {
+    "id": 9,
+    "phrase": "春风得意马蹄疾，一日看尽长安花",
+    "type": "poetry",
+    "source": "孟郊《登科后》",
+    "meaning": "事业成功，心情愉悦",
+    "homophone_mappings": [
+      {"name": "春风", "mapping": {"春": "春", "风": "风"}},
+      {"name": "得意", "mapping": {"得": "得", "意": "意"}},
+      {"name": "长安", "mapping": {"长": "长", "安": "安"}}
+    ]
+  },
+  {
+    "id": 10,
+    "phrase": "天生我材必有用",
+    "type": "poetry",
+    "source": "李白《将进酒》",
+    "meaning": "每个人都有独特的价值和才能",
+    "homophone_mappings": [
+      {"name": "天材", "mapping": {"天": "天", "材": "材"}},
+      {"name": "有用", "mapping": {"有": "有", "用": "用"}}
+    ]
+  },
+  {
+    "id": 11,
+    "phrase": "海阔凭鱼跃，天高任鸟飞",
+    "type": "poetry",
+    "source": "僧云览诗",
+    "meaning": "自由发展，施展才华",
+    "homophone_mappings": [
+      {"name": "海阔", "mapping": {"海": "海", "阔": "阔"}},
+      {"name": "天高", "mapping": {"天": "天", "高": "高"}},
+      {"name": "飞跃", "mapping": {"跃": "跃", "飞": "飞"}}
+    ]
+  },
+  {
+    "id": 12,
+    "phrase": "宝剑锋从磨砺出，梅花香自苦寒来",
+    "type": "poetry",
+    "source": "《警世贤文》",
+    "meaning": "经过磨练才能获得成功",
+    "homophone_mappings": [
+      {"name": "宝锋", "mapping": {"宝": "宝", "锋": "锋"}},
+      {"name": "梅香", "mapping": {"梅": "梅", "香": "香"}}
+    ]
+  },
+  {
+    "id": 13,
+    "phrase": "采菊东篱下，悠然见南山",
+    "type": "poetry",
+    "source": "陶渊明《饮酒》",
+    "meaning": "闲适自在，心境恬淡",
+    "homophone_mappings": [
+      {"name": "悠然", "mapping": {"悠": "悠", "然": "然"}},
+      {"name": "南山", "mapping": {"南": "南", "山": "山"}}
+    ]
+  },
+  {
+    "id": 14,
+    "phrase": "明月松间照，清泉石上流",
+    "type": "poetry",
+    "source": "王维《山居秋暝》",
+    "meaning": "清雅高洁，品性纯净",
+    "homophone_mappings": [
+      {"name": "明月", "mapping": {"明": "明", "月": "月"}},
+      {"name": "清泉", "mapping": {"清": "清", "泉": "泉"}}
+    ]
+  },
+  {
+    "id": 15,
+    "phrase": "大江东去，浪淘尽，千古风流人物",
+    "type": "poetry",
+    "source": "苏轼《念奴娇·赤壁怀古》",
+    "meaning": "气魄宏大，胸怀天下",
+    "homophone_mappings": [
+      {"name": "大江", "mapping": {"大": "大", "江": "江"}},
+      {"name": "风流", "mapping": {"风": "风", "流": "流"}}
+    ]
+  },
+  {
+    "id": 16,
+    "phrase": "但愿人长久，千里共婵娟",
+    "type": "poetry",
+    "source": "苏轼《水调歌头》",
+    "meaning": "美好祝愿，情谊绵长",
+    "homophone_mappings": [
+      {"name": "长久", "mapping": {"长": "长", "久": "久"}},
+      {"name": "婵娟", "mapping": {"": "婵", "娟": "娟"}}
+    ]
+  },
+  {
+    "id": 17,
+    "phrase": "人生自古谁无死，留取丹心照汗青",
+    "type": "poetry",
+    "source": "文天祥《过零丁洋》",
+    "meaning": "忠诚正直，名垂青史",
+    "homophone_mappings": [
+      {"name": "丹心", "mapping": {"丹": "丹", "心": "心"}},
+      {"name": "汗青", "mapping": {"汗": "汗", "青": "青"}}
+    ]
+  },
+  {
+    "id": 18,
+    "phrase": "先天下之忧而忧，后天下之乐而乐",
+    "type": "poetry",
+    "source": "范仲淹《岳阳楼记》",
+    "meaning": "心怀天下，忧国忧民",
+    "homophone_mappings": [
+      {"name": "先忧", "mapping": {"先": "先", "忧": "忧"}},
+      {"name": "后乐", "mapping": {"后": "后", "乐": "乐"}}
+    ]
+  },
+  {
+    "id": 19,
+    "phrase": "落霞与孤鹜齐飞，秋水共长天一色",
+    "type": "poetry",
+    "source": "王勃《滕王阁序》",
+    "meaning": "景色壮美，意境深远",
+    "homophone_mappings": [
+      {"name": "落霞", "mapping": {"落": "落", "霞": "霞"}},
+      {"name": "长天", "mapping": {"长": "长", "天": "天"}}
+    ]
+  },
+  {
+    "id": 20,
+    "phrase": "老骥伏枥，志在千里",
+    "type": "poetry",
+    "source": "曹操《龟虽寿》",
+    "meaning": "年老志不衰，雄心犹在",
+    "homophone_mappings": [
+      {"name": "志千", "mapping": {"志": "志", "千": "千"}},
+      {"name": "千里", "mapping": {"千": "千", "里": "里"}}
+    ]
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "char": "可",
+    "pinyin": "ke",
+    "tone": 3,
+    "wuxing": "木",
+    "category": "goodness",
+    "position": "middle",
+    "simplified_strokes": 5,
+    "traditional_strokes": 5,
+    "auspicious_phrases": [
+      "可爱可亲",
+      "可圈可点"
+    ],
+    "usage_note": "美好类常用字，字形从口从丁，五行属木"
+  },
+  {
+    "char": "子",
+    "pinyin": "zi",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "generation",
+    "position": "middle",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": [
+      "君子之交",
+      "天之骄子"
+    ],
+    "usage_note": "常用辈分字，男女皆宜"
+  },
+  {
+    "char": "文",
+    "pinyin": "wen",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "文采斐然",
+      "温文尔雅"
+    ],
+    "usage_note": "才华类常用字"
+  },
+  {
+    "char": "武",
+    "pinyin": "wu",
+    "tone": 3,
+    "wuxing": "金",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "文武双全",
+      "武艺超群"
+    ],
+    "usage_note": "武勇类常用字，字形含戈（兵器），五行属金"
+  },
+  {
+    "char": "才",
+    "pinyin": "cai",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": [
+      "才华横溢",
+      "才高八斗"
+    ],
+    "usage_note": "才能类常用字"
+  },
+  {
+    "char": "学",
+    "pinyin": "xue",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 8,
+    "traditional_strokes": 16,
+    "auspicious_phrases": [
+      "学富五车",
+      "博学多才"
+    ],
+    "usage_note": "学识类常用字"
+  },
+  {
+    "char": "志",
+    "pinyin": "zhi",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "aspiration",
+    "position": "middle",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "志存高远",
+      "志同道合"
+    ],
+    "usage_note": "志向类常用字"
+  },
+  {
+    "char": "浩",
+    "pinyin": "hao",
+    "tone": 4,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 10,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "浩然正气",
+      "浩瀚无垠"
+    ],
+    "usage_note": "气势类常用字"
+  },
+  {
+    "char": "博",
+    "pinyin": "bo",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "博学多才",
+      "博大精深"
+    ],
+    "usage_note": "学识类常用字，上升象（十字架），五行属木"
+  },
+  {
+    "char": "嘉",
+    "pinyin": "jia",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "goodness",
+    "position": "middle",
+    "simplified_strokes": 14,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "嘉言懿行",
+      "嘉宾满座"
+    ],
+    "usage_note": "美好类常用字"
+  },
+  {
+    "char": "宇",
+    "pinyin": "yu",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "气宇轩昂",
+      "宇宙星辰"
+    ],
+    "usage_note": "空间类常用字"
+  },
+  {
+    "char": "沐",
+    "pinyin": "mu",
+    "tone": 4,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 7,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "如沐春风",
+      "沐浴恩泽"
+    ],
+    "usage_note": "清新类常用字"
+  },
+  {
+    "char": "景",
+    "pinyin": "jing",
+    "tone": 3,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "景星庆云",
+      "良辰美景"
+    ],
+    "usage_note": "景色类常用字"
+  },
+  {
+    "char": "彦",
+    "pinyin": "yan",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "硕彦名儒",
+      "俊彦之士"
+    ],
+    "usage_note": "才俊类常用字"
+  },
+  {
+    "char": "睿",
+    "pinyin": "rui",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "wisdom",
+    "position": "middle",
+    "simplified_strokes": 14,
+    "traditional_strokes": 16,
+    "auspicious_phrases": [
+      "睿智聪慧",
+      "聪明睿智"
+    ],
+    "usage_note": "聪慧类常用字"
+  },
+  {
+    "char": "哲",
+    "pinyin": "zhe",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "wisdom",
+    "position": "middle",
+    "simplified_strokes": 10,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "哲学思想",
+      "明哲保身"
+    ],
+    "usage_note": "哲理类常用字"
+  },
+  {
+    "char": "建",
+    "pinyin": "jian",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "action",
+    "position": "middle",
+    "simplified_strokes": 8,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "建功立业",
+      "建设家园"
+    ],
+    "usage_note": "建设类常用字"
+  },
+  {
+    "char": "家",
+    "pinyin": "jia",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "family",
+    "position": "middle",
+    "simplified_strokes": 10,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "家和万事兴",
+      "家国情怀"
+    ],
+    "usage_note": "家庭类常用字"
+  },
+  {
+    "char": "国",
+    "pinyin": "guo",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "country",
+    "position": "middle",
+    "simplified_strokes": 8,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "国泰民安",
+      "精忠报国"
+    ],
+    "usage_note": "国家类常用字"
+  },
+  {
+    "char": "天",
+    "pinyin": "tian",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "天道酬勤",
+      "天马行空"
+    ],
+    "usage_note": "天空类常用字"
+  },
+  {
+    "char": "山",
+    "pinyin": "shan",
+    "tone": 1,
+    "wuxing": "土",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": [
+      "山高水长",
+      "稳如泰山"
+    ],
+    "usage_note": "山岳类常用字"
+  },
+  {
+    "char": "水",
+    "pinyin": "shui",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "水滴石穿",
+      "上善若水"
+    ],
+    "usage_note": "水流类常用字"
+  },
+  {
+    "char": "风",
+    "pinyin": "feng",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 4,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "风华正茂",
+      "乘风破浪"
+    ],
+    "usage_note": "风云类常用字，八卦五行属木，上升象"
+  },
+  {
+    "char": "月",
+    "pinyin": "yue",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "月白风清",
+      "花好月圆"
+    ],
+    "usage_note": "月亮类常用字"
+  },
+  {
+    "char": "星",
+    "pinyin": "xing",
+    "tone": 1,
+    "wuxing": "金",
+    "category": "nature",
+    "position": "middle",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "星光灿烂",
+      "繁星点点"
+    ],
+    "usage_note": "星辰类常用字"
+  },
+  {
+    "char": "美",
+    "pinyin": "mei",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "beauty",
+    "position": "middle",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "美不胜收",
+      "完美无缺"
+    ],
+    "usage_note": "美丽类常用字，字形含土，五行属土"
+  },
+  {
+    "char": "怀",
+    "pinyin": "huai",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "aspiration",
+    "position": "middle",
+    "simplified_strokes": 7,
+    "traditional_strokes": 20,
+    "auspicious_phrases": [
+      "胸怀大志",
+      "怀才抱德"
+    ],
+    "usage_note": "怀抱类常用字"
+  },
+  {
+    "char": "宏",
+    "pinyin": "hong",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "grandeur",
+    "position": "middle",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "宏伟壮观",
+      "大展宏图"
+    ],
+    "usage_note": "宏大类常用字"
+  },
+  {
+    "char": "卓",
+    "pinyin": "zhuo",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "卓越不凡",
+      "卓尔不群"
+    ],
+    "usage_note": "卓越类常用字"
+  },
+  {
+    "char": "越",
+    "pinyin": "yue",
+    "tone": 4,
+    "wuxing": "土",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "超越自我",
+      "越来越棒"
+    ],
+    "usage_note": "超越类常用字"
+  },
+  {
+    "char": "华",
+    "pinyin": "hua",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "talent",
+    "position": "middle",
+    "simplified_strokes": 6,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "才华横溢",
+      "华丽堂皇"
+    ],
+    "usage_note": "华彩类常用字"
+  },
+  {
+    "char": "熙",
+    "pinyin": "xi",
+    "tone": 1,
+    "wuxing": "水",
+    "category": "goodness",
+    "position": "middle",
+    "simplified_strokes": 14,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "熙熙攘攘",
+      "熙朝盛世"
+    ],
+    "usage_note": "光明类常用字"
+  },
+  {
+    "char": "晗",
+    "pinyin": "han",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "time",
+    "position": "middle",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "晗日初升",
+      "晗光万丈"
+    ],
+    "usage_note": "天将明类常用字"
+  }
+]

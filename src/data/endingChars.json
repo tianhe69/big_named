@@ -1,0 +1,1352 @@
+[
+  {
+    "char": "然",
+    "pinyin": "ran",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "particle",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "安然无恙",
+      "泰然自若"
+    ],
+    "usage_note": "文言虚词，文雅结尾，字形从火犬，五行属金"
+  },
+  {
+    "char": "之",
+    "pinyin": "zhi",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "particle",
+    "position": "ending",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": [
+      "持之以恒",
+      "君子之交"
+    ],
+    "usage_note": "文言虚词，文雅结尾"
+  },
+  {
+    "char": "祥",
+    "pinyin": "xiang",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "auspicious",
+    "position": "ending",
+    "simplified_strokes": 10,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "吉祥如意",
+      "祥瑞安康"
+    ],
+    "usage_note": "吉祥类经典结尾字"
+  },
+  {
+    "char": "元",
+    "pinyin": "yuan",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "yijing",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "元亨利贞",
+      "一元复始"
+    ],
+    "usage_note": "易经四德之首"
+  },
+  {
+    "char": "亨",
+    "pinyin": "heng",
+    "tone": 1,
+    "wuxing": "水",
+    "category": "yijing",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "万事亨通",
+      "元亨利贞"
+    ],
+    "usage_note": "易经四德之二，通达之意"
+  },
+  {
+    "char": "利",
+    "pinyin": "li",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "yijing",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "大吉大利",
+      "元亨利贞"
+    ],
+    "usage_note": "易经四德之三，锋利之意，字形从刀，五行属金"
+  },
+  {
+    "char": "贞",
+    "pinyin": "zhen",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "yijing",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "坚贞不屈",
+      "元亨利贞"
+    ],
+    "usage_note": "易经四德之四，正固之意"
+  },
+  {
+    "char": "富",
+    "pinyin": "fu",
+    "tone": 4,
+    "wuxing": "水",
+    "category": "wealth",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "富贵吉祥",
+      "富可敌国"
+    ],
+    "usage_note": "财富类结尾字"
+  },
+  {
+    "char": "贵",
+    "pinyin": "gui",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "nobility",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "富贵吉祥",
+      "贵人相助"
+    ],
+    "usage_note": "尊贵类结尾字"
+  },
+  {
+    "char": "寿",
+    "pinyin": "shou",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "longevity",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "福寿双全",
+      "延年益寿"
+    ],
+    "usage_note": "长寿类结尾字"
+  },
+  {
+    "char": "考",
+    "pinyin": "kao",
+    "tone": 3,
+    "wuxing": "金",
+    "category": "longevity",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "福寿考终",
+      "如丧考妣"
+    ],
+    "usage_note": "传统五福之一，老也，字形从老省，五行属金"
+  },
+  {
+    "char": "孝",
+    "pinyin": "xiao",
+    "tone": 4,
+    "wuxing": "水",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "孝悌忠信",
+      "百善孝为先"
+    ],
+    "usage_note": "品德类结尾字"
+  },
+  {
+    "char": "远",
+    "pinyin": "yuan",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "aspiration",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 17,
+    "auspicious_phrases": [
+      "志存高远",
+      "宁静致远"
+    ],
+    "usage_note": "志向类结尾字"
+  },
+  {
+    "char": "达",
+    "pinyin": "da",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 16,
+    "auspicious_phrases": [
+      "飞黄腾达",
+      "四通八达"
+    ],
+    "usage_note": "通达类结尾字"
+  },
+  {
+    "char": "康",
+    "pinyin": "kang",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "health",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "健康长寿",
+      "小康之家"
+    ],
+    "usage_note": "健康类结尾字"
+  },
+  {
+    "char": "成",
+    "pinyin": "cheng",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "马到成功",
+      "功成名就"
+    ],
+    "usage_note": "成功类结尾字"
+  },
+  {
+    "char": "安",
+    "pinyin": "an",
+    "tone": 1,
+    "wuxing": "土",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "安居乐业",
+      "平安吉祥"
+    ],
+    "usage_note": "安宁类结尾字"
+  },
+  {
+    "char": "宁",
+    "pinyin": "ning",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "宁静致远",
+      "安宁祥和"
+    ],
+    "usage_note": "宁静类结尾字"
+  },
+  {
+    "char": "和",
+    "pinyin": "he",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "和谐美满",
+      "和气生财"
+    ],
+    "usage_note": "和谐类结尾字"
+  },
+  {
+    "char": "平",
+    "pinyin": "ping",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 5,
+    "auspicious_phrases": [
+      "平安吉祥",
+      "平和从容"
+    ],
+    "usage_note": "平和类结尾字"
+  },
+  {
+    "char": "乐",
+    "pinyin": "le",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 15,
+    "auspicious_phrases": [
+      "快乐幸福",
+      "安居乐业"
+    ],
+    "usage_note": "快乐类结尾字"
+  },
+  {
+    "char": "福",
+    "pinyin": "fu",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "auspicious",
+    "position": "ending",
+    "simplified_strokes": 13,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "福星高照",
+      "福禄双全"
+    ],
+    "usage_note": "福气类结尾字"
+  },
+  {
+    "char": "禄",
+    "pinyin": "lu",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "auspicious",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 13,
+    "auspicious_phrases": [
+      "福禄寿喜",
+      "高官厚禄"
+    ],
+    "usage_note": "俸禄类结尾字"
+  },
+  {
+    "char": "禧",
+    "pinyin": "xi",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "auspicious",
+    "position": "ending",
+    "simplified_strokes": 16,
+    "traditional_strokes": 17,
+    "auspicious_phrases": [
+      "千禧之年",
+      "禧悦安康"
+    ],
+    "usage_note": "喜庆类结尾字"
+  },
+  {
+    "char": "瑞",
+    "pinyin": "rui",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "auspicious",
+    "position": "ending",
+    "simplified_strokes": 13,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "瑞雪兆丰年",
+      "祥云瑞气"
+    ],
+    "usage_note": "吉祥类结尾字"
+  },
+  {
+    "char": "明",
+    "pinyin": "ming",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "wisdom",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "光明磊落",
+      "前途光明"
+    ],
+    "usage_note": "明亮类结尾字"
+  },
+  {
+    "char": "亮",
+    "pinyin": "liang",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "wisdom",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "明亮照人",
+      "前程明亮"
+    ],
+    "usage_note": "光亮类结尾字"
+  },
+  {
+    "char": "辉",
+    "pinyin": "hui",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 15,
+    "auspicious_phrases": [
+      "辉煌灿烂",
+      "光辉夺目"
+    ],
+    "usage_note": "光辉类结尾字"
+  },
+  {
+    "char": "煌",
+    "pinyin": "huang",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 13,
+    "traditional_strokes": 13,
+    "auspicious_phrases": [
+      "金碧辉煌",
+      "煌煌巨著"
+    ],
+    "usage_note": "辉煌类结尾字"
+  },
+  {
+    "char": "荣",
+    "pinyin": "rong",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "繁荣昌盛",
+      "欣欣向荣"
+    ],
+    "usage_note": "荣耀类结尾字"
+  },
+  {
+    "char": "耀",
+    "pinyin": "yao",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "success",
+    "position": "ending",
+    "simplified_strokes": 20,
+    "traditional_strokes": 20,
+    "auspicious_phrases": [
+      "光宗耀祖",
+      "光彩耀目"
+    ],
+    "usage_note": "闪耀类结尾字"
+  },
+  {
+    "char": "华",
+    "pinyin": "hua",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "talent",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "才华横溢",
+      "华丽堂皇"
+    ],
+    "usage_note": "华彩类结尾字"
+  },
+  {
+    "char": "伟",
+    "pinyin": "wei",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "grandeur",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "伟大卓越",
+      "丰功伟业"
+    ],
+    "usage_note": "伟大类结尾字"
+  },
+  {
+    "char": "宏",
+    "pinyin": "hong",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "grandeur",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "宏伟壮观",
+      "大展宏图"
+    ],
+    "usage_note": "宏大类结尾字"
+  },
+  {
+    "char": "杰",
+    "pinyin": "jie",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "talent",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "杰出人才",
+      "人杰地灵"
+    ],
+    "usage_note": "杰出类结尾字"
+  },
+  {
+    "char": "俊",
+    "pinyin": "jun",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "talent",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "俊秀非凡",
+      "英俊潇洒"
+    ],
+    "usage_note": "俊秀类结尾字"
+  },
+  {
+    "char": "英",
+    "pinyin": "ying",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "talent",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "英姿飒爽",
+      "英雄豪杰"
+    ],
+    "usage_note": "英才类结尾字"
+  },
+  {
+    "char": "贤",
+    "pinyin": "xian",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 15,
+    "auspicious_phrases": [
+      "贤良方正",
+      "见贤思齐"
+    ],
+    "usage_note": "贤德类结尾字"
+  },
+  {
+    "char": "德",
+    "pinyin": "de",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 15,
+    "traditional_strokes": 15,
+    "auspicious_phrases": [
+      "厚德载物",
+      "德才兼备"
+    ],
+    "usage_note": "品德类结尾字"
+  },
+  {
+    "char": "仁",
+    "pinyin": "ren",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "仁者爱人",
+      "仁至义尽"
+    ],
+    "usage_note": "仁爱类结尾字"
+  },
+  {
+    "char": "义",
+    "pinyin": "yi",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 3,
+    "traditional_strokes": 13,
+    "auspicious_phrases": [
+      "义薄云天",
+      "义无反顾"
+    ],
+    "usage_note": "正义类结尾字"
+  },
+  {
+    "char": "礼",
+    "pinyin": "li",
+    "tone": 3,
+    "wuxing": "火",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 17,
+    "auspicious_phrases": [
+      "知书达礼",
+      "彬彬有礼"
+    ],
+    "usage_note": "礼仪类结尾字"
+  },
+  {
+    "char": "智",
+    "pinyin": "zhi",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "智慧过人",
+      "智勇双全"
+    ],
+    "usage_note": "智慧类结尾字"
+  },
+  {
+    "char": "信",
+    "pinyin": "xin",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "言而有信",
+      "信守承诺"
+    ],
+    "usage_note": "诚信类结尾字"
+  },
+  {
+    "char": "诚",
+    "pinyin": "cheng",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 13,
+    "auspicious_phrases": [
+      "诚实守信",
+      "诚心诚意"
+    ],
+    "usage_note": "诚实类结尾字"
+  },
+  {
+    "char": "正",
+    "pinyin": "zheng",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 5,
+    "auspicious_phrases": [
+      "正直无私",
+      "正大光明"
+    ],
+    "usage_note": "正直类结尾字"
+  },
+  {
+    "char": "直",
+    "pinyin": "zhi",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "正直不阿",
+      "直道而行"
+    ],
+    "usage_note": "正直类结尾字"
+  },
+  {
+    "char": "清",
+    "pinyin": "qing",
+    "tone": 1,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "清澈透明",
+      "清正廉洁"
+    ],
+    "usage_note": "清澈类结尾字"
+  },
+  {
+    "char": "洁",
+    "pinyin": "jie",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "洁白无瑕",
+      "清正廉洁"
+    ],
+    "usage_note": "洁净类结尾字"
+  },
+  {
+    "char": "静",
+    "pinyin": "jing",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 14,
+    "traditional_strokes": 16,
+    "auspicious_phrases": [
+      "安静祥和",
+      "静以修身"
+    ],
+    "usage_note": "安静类结尾字"
+  },
+  {
+    "char": "雅",
+    "pinyin": "ya",
+    "tone": 3,
+    "wuxing": "木",
+    "category": "elegance",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "温文尔雅",
+      "雅致脱俗"
+    ],
+    "usage_note": "文雅类结尾字"
+  },
+  {
+    "char": "逸",
+    "pinyin": "yi",
+    "tone": 4,
+    "wuxing": "土",
+    "category": "elegance",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 15,
+    "auspicious_phrases": [
+      "逸群之才",
+      "闲情逸致"
+    ],
+    "usage_note": "超逸类结尾字"
+  },
+  {
+    "char": "轩",
+    "pinyin": "xuan",
+    "tone": 1,
+    "wuxing": "土",
+    "category": "elegance",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "气宇轩昂",
+      "轩然大波"
+    ],
+    "usage_note": "高雅类结尾字"
+  },
+  {
+    "char": "宇",
+    "pinyin": "yu",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "气宇轩昂",
+      "宇宙星辰"
+    ],
+    "usage_note": "空间类结尾字"
+  },
+  {
+    "char": "辰",
+    "pinyin": "chen",
+    "tone": 2,
+    "wuxing": "土",
+    "category": "time",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 7,
+    "auspicious_phrases": [
+      "良辰美景",
+      "星辰大海"
+    ],
+    "usage_note": "时辰类结尾字"
+  },
+  {
+    "char": "晨",
+    "pinyin": "chen",
+    "tone": 2,
+    "wuxing": "金",
+    "category": "time",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "晨光熹微",
+      "一日之计在于晨"
+    ],
+    "usage_note": "时间类结尾字"
+  },
+  {
+    "char": "旭",
+    "pinyin": "xu",
+    "tone": 4,
+    "wuxing": "火",
+    "category": "time",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "旭日东升",
+      "旭光初现"
+    ],
+    "usage_note": "朝阳类结尾字"
+  },
+  {
+    "char": "晖",
+    "pinyin": "hui",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 10,
+    "traditional_strokes": 13,
+    "auspicious_phrases": [
+      "春晖寸草",
+      "晖光日新"
+    ],
+    "usage_note": "阳光类结尾字"
+  },
+  {
+    "char": "阳",
+    "pinyin": "yang",
+    "tone": 2,
+    "wuxing": "土",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "阳光明媚",
+      "阳春白雪"
+    ],
+    "usage_note": "太阳类结尾字"
+  },
+  {
+    "char": "光",
+    "pinyin": "guang",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "光明正大",
+      "光彩照人"
+    ],
+    "usage_note": "光芒类结尾字"
+  },
+  {
+    "char": "云",
+    "pinyin": "yun",
+    "tone": 2,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "云淡风轻",
+      "云蒸霞蔚"
+    ],
+    "usage_note": "云彩类结尾字"
+  },
+  {
+    "char": "雨",
+    "pinyin": "yu",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "雨润万物",
+      "雨露甘霖"
+    ],
+    "usage_note": "雨水类结尾字"
+  },
+  {
+    "char": "雪",
+    "pinyin": "xue",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "雪花飞舞",
+      "冰雪聪明"
+    ],
+    "usage_note": "雪花类结尾字"
+  },
+  {
+    "char": "冰",
+    "pinyin": "bing",
+    "tone": 1,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "冰清玉洁",
+      "冰雪聪明"
+    ],
+    "usage_note": "冰雪类结尾字"
+  },
+  {
+    "char": "山",
+    "pinyin": "shan",
+    "tone": 1,
+    "wuxing": "土",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 3,
+    "traditional_strokes": 3,
+    "auspicious_phrases": [
+      "山高水长",
+      "稳如泰山"
+    ],
+    "usage_note": "山岳类结尾字"
+  },
+  {
+    "char": "水",
+    "pinyin": "shui",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "水滴石穿",
+      "上善若水"
+    ],
+    "usage_note": "水流类结尾字"
+  },
+  {
+    "char": "风",
+    "pinyin": "feng",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "风华正茂",
+      "乘风破浪"
+    ],
+    "usage_note": "风云类结尾字，八卦五行属木，上升象"
+  },
+  {
+    "char": "月",
+    "pinyin": "yue",
+    "tone": 4,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "月白风清",
+      "花好月圆"
+    ],
+    "usage_note": "月亮类结尾字"
+  },
+  {
+    "char": "星",
+    "pinyin": "xing",
+    "tone": 1,
+    "wuxing": "金",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "星光灿烂",
+      "繁星点点"
+    ],
+    "usage_note": "星辰类结尾字"
+  },
+  {
+    "char": "天",
+    "pinyin": "tian",
+    "tone": 1,
+    "wuxing": "火",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 4,
+    "traditional_strokes": 4,
+    "auspicious_phrases": [
+      "天道酬勤",
+      "天马行空"
+    ],
+    "usage_note": "天空类结尾字"
+  },
+  {
+    "char": "林",
+    "pinyin": "lin",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "林木葱郁",
+      "翰林院士"
+    ],
+    "usage_note": "树林类结尾字"
+  },
+  {
+    "char": "森",
+    "pinyin": "sen",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "森林茂盛",
+      "森罗万象"
+    ],
+    "usage_note": "森林类结尾字"
+  },
+  {
+    "char": "柏",
+    "pinyin": "bai",
+    "tone": 3,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "柏树常青",
+      "松柏后凋"
+    ],
+    "usage_note": "柏树类结尾字"
+  },
+  {
+    "char": "松",
+    "pinyin": "song",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 18,
+    "auspicious_phrases": [
+      "松柏常青",
+      "松鹤延年"
+    ],
+    "usage_note": "松树类结尾字"
+  },
+  {
+    "char": "竹",
+    "pinyin": "zhu",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "竹报平安",
+      "胸有成竹"
+    ],
+    "usage_note": "竹子类结尾字"
+  },
+  {
+    "char": "梅",
+    "pinyin": "mei",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "梅花香自苦寒来",
+      "青梅竹马"
+    ],
+    "usage_note": "梅花类结尾字"
+  },
+  {
+    "char": "兰",
+    "pinyin": "lan",
+    "tone": 2,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 5,
+    "traditional_strokes": 23,
+    "auspicious_phrases": [
+      "兰质蕙心",
+      "芝兰玉树"
+    ],
+    "usage_note": "兰花类结尾字"
+  },
+  {
+    "char": "芳",
+    "pinyin": "fang",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "芳草萋萋",
+      "流芳百世"
+    ],
+    "usage_note": "芳香类结尾字"
+  },
+  {
+    "char": "芬",
+    "pinyin": "fen",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "nature",
+    "position": "ending",
+    "simplified_strokes": 7,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "芬芳馥郁",
+      "芬兰之国"
+    ],
+    "usage_note": "芬芳类结尾字"
+  },
+  {
+    "char": "美",
+    "pinyin": "mei",
+    "tone": 3,
+    "wuxing": "土",
+    "category": "beauty",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "美不胜收",
+      "完美无缺"
+    ],
+    "usage_note": "美丽类结尾字，字形含土，五行属土"
+  },
+  {
+    "char": "佳",
+    "pinyin": "jia",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "佳人如玉",
+      "渐入佳境"
+    ],
+    "usage_note": "优秀类结尾字"
+  },
+  {
+    "char": "优",
+    "pinyin": "you",
+    "tone": 1,
+    "wuxing": "土",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 17,
+    "auspicious_phrases": [
+      "优秀卓越",
+      "品学兼优"
+    ],
+    "usage_note": "优良类结尾字"
+  },
+  {
+    "char": "善",
+    "pinyin": "shan",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "virtue",
+    "position": "ending",
+    "simplified_strokes": 12,
+    "traditional_strokes": 12,
+    "auspicious_phrases": [
+      "善良正直",
+      "从善如流"
+    ],
+    "usage_note": "善良类结尾字"
+  },
+  {
+    "char": "好",
+    "pinyin": "hao",
+    "tone": 3,
+    "wuxing": "水",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 6,
+    "traditional_strokes": 6,
+    "auspicious_phrases": [
+      "好事多磨",
+      "越来越好"
+    ],
+    "usage_note": "美好类结尾字"
+  },
+  {
+    "char": "欣",
+    "pinyin": "xin",
+    "tone": 1,
+    "wuxing": "木",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 8,
+    "auspicious_phrases": [
+      "欣欣向荣",
+      "欣喜若狂"
+    ],
+    "usage_note": "欢欣类结尾字"
+  },
+  {
+    "char": "悦",
+    "pinyin": "yue",
+    "tone": 4,
+    "wuxing": "金",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 10,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "悦目赏心",
+      "和颜悦色"
+    ],
+    "usage_note": "喜悦类结尾字"
+  },
+  {
+    "char": "怡",
+    "pinyin": "yi",
+    "tone": 2,
+    "wuxing": "土",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 8,
+    "traditional_strokes": 9,
+    "auspicious_phrases": [
+      "怡然自得",
+      "心旷神怡"
+    ],
+    "usage_note": "愉悦类结尾字"
+  },
+  {
+    "char": "恬",
+    "pinyin": "tian",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 9,
+    "traditional_strokes": 10,
+    "auspicious_phrases": [
+      "恬静安详",
+      "恬淡明志"
+    ],
+    "usage_note": "恬静类结尾字"
+  },
+  {
+    "char": "熙",
+    "pinyin": "xi",
+    "tone": 1,
+    "wuxing": "水",
+    "category": "goodness",
+    "position": "ending",
+    "simplified_strokes": 14,
+    "traditional_strokes": 14,
+    "auspicious_phrases": [
+      "熙熙攘攘",
+      "熙朝盛世"
+    ],
+    "usage_note": "光明类结尾字"
+  },
+  {
+    "char": "晗",
+    "pinyin": "han",
+    "tone": 2,
+    "wuxing": "火",
+    "category": "time",
+    "position": "ending",
+    "simplified_strokes": 11,
+    "traditional_strokes": 11,
+    "auspicious_phrases": [
+      "晗日初升",
+      "晗光万丈"
+    ],
+    "usage_note": "天将明类结尾字"
+  }
+]
