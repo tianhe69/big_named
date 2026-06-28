@@ -1,9 +1,9 @@
 # Dependencies
 node_modules/
 
-# Build output
-dist/
-build/
+# Build output (注释掉以支持 Gitee Pages)
+# dist/
+# build/
 
 # Logs
 *.log
