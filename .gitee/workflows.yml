@@ -1,0 +1,36 @@
+version: '1.0'
+name: deploy-to-gitee-pages
+displayName: 部署到 Gitee Pages
+triggers:
+  push:
+    branches:
+      - master
+stages:
+  - name: build-and-deploy
+    displayName: 构建并部署
+    strategy: naturally
+    trigger: auto
+    executor:
+      - nodejs
+    steps:
+      - checkout:
+          lfs: true
+          submodules: recursive
+      - name: install-dependencies
+        displayName: 安装依赖
+        script: |
+          npm ci
+      - name: build-project
+        displayName: 构建项目
+        script: |
+          npm run build
+      - name: deploy-to-pages
+        displayName: 部署到 Gitee Pages
+        script: |
+          echo "构建完成，dist 文件夹已生成"
+        when: always
+    artifacts:
+      - name: dist-files
+        path:
+          - './dist/**/*'
+        type: files
