@@ -651,12 +651,17 @@ export const matchHomophone = (firstName: string, secondName: string): MatchedPh
     
     for (const mapping of item.homophone_mappings) {
       if (mapping.name === nameCombination) {
+        // 【关键修复】过滤掉 undefined 值，确保所有值都是 string
+        const normalizedMapping = Object.fromEntries(
+          Object.entries(mapping.mapping).filter(([, v]) => v !== undefined)
+        ) as Record<string, string>;
+        
         matched.push({
           phrase: item.phrase,
           type: item.type,
           source: item.source,
           meaning: item.meaning,
-          mapping: mapping.mapping
+          mapping: normalizedMapping
         });
       }
     }

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Form, Input, Select, Button, Card, Tag, Typography, Space, Divider, message } from 'antd';
 import { SearchOutlined, RedoOutlined, StarFilled } from '@ant-design/icons';
-import { generateNames, getWuxingOptions, matchHomophone, type NameResult, type MatchedPhrase } from './utils/naming';
+import { generateNames, getWuxingOptions, matchHomophone, type NameResult } from './utils/naming';
 import './App.css';
 
 const { Title, Text } = Typography;
